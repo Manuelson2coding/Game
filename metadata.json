@@ -1,0 +1,6 @@
+{
+  "name": "Helix Jump 3D",
+  "description": "Gioco arcade 3D con torre a elica, ostacoli, combo fever mode, skin sbloccabili ed effetti sonori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
